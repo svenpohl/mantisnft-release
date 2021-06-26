@@ -28,33 +28,41 @@ Here is your protected content for your users. Put your greatest stuff ever in t
 *Shortcode [nft_content] for access by having an NFT of the collection "xusoxusoxuso" OR "alien.worlds":*
 
 <pre>
-[nft_content type="collection" collection="xusoxusoxuso;alien.worlds" ] ...your protected content (with other wordpress-shortcodes maybe) [/nft_content]
+[nft_content type="collection" collection="xusoxusoxuso;alien.worlds" ] ...your protected content [/nft_content]
 </pre>
 
 
 *Shortcode [nft_content] for access by having an NFT of the template id "60869":*
 
 <pre>
-[nft_content type="template" collection="" template="60869" ] ...your protected content (with other wordpress-shortcodes maybe) [/nft_content]
+[nft_content type="template" collection="" template="60869" ] ...your protected content [/nft_content]
 </pre>
 
 
 *Shortcode [nft_content] for access by having an NFT of the template id "60869" OR "113906":*
 
 <pre>
-[nft_content type="template" collection="" template="60869;113906" ] ...your protected content (with other wordpress-shortcodes maybe) [/nft_content]
+[nft_content type="template" collection="" template="60869;113906" ] ...your protected content [/nft_content]
 </pre>
 
 
 *Shortcode [nft_content] for access by having an NFT of the asset-id "1099545088338":*
 
 <pre>
-[nft_content type="asset" collection="" template="" asset="1099545088338" ] ...your protected content (with other wordpress-shortcodes maybe) [/nft_content]
+[nft_content type="asset" collection="" template="" asset="1099545088338" ] ...your protected content [/nft_content]
 </pre>
 
 
 *Shortcode [nft_content] for access by having an NFT of the asset-id "1099545088338" OR "1099539110613":*
 
 <pre>
-[nft_content type="asset" collection="" template="" asset="1099545088338;1099539110613" ] ...your protected content (with other wordpress-shortcodes maybe) [/nft_content]
+[nft_content type="asset" collection="" template="" asset="1099545088338;1099539110613" ] ...your protected content [/nft_content]
 </pre>
+
+
+*Shortcode [nft_content] for access by having an NFT of the collection "xusoxusoxuso" AND schema "unique":*
+
+<pre>
+[nft_content type="collection" collection="xusoxusoxuso" schema="unique" ] ...your protected content [/nft_content]
+</pre>
+
