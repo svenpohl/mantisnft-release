@@ -3,6 +3,11 @@ Wordpress-Plugin for protected content by NFTKey of WAX (EOSIO)
 
 Publish your premium-content on Wordpress and make it accessible only for the owners of your NFT's (atomichub.io / WAX-Blockchain).
 
+![screen1](https://user-images.githubusercontent.com/26022558/123674735-3a26e200-d842-11eb-9ad6-72268f629e62.png)
+
+![screen2](https://user-images.githubusercontent.com/26022558/123674773-46ab3a80-d842-11eb-83bc-9e4e71bf15c2.png)
+
+![screen3](https://user-images.githubusercontent.com/26022558/123674784-4b6fee80-d842-11eb-8673-7f0ad5461006.png)
 
 Usage:
 ------
