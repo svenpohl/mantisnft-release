@@ -65,9 +65,20 @@ Here is your protected content for your users. Put your greatest stuff ever in t
 </pre>
 
 
-*Shortcode [nft_content] for access by having an NFT of the collection "xusoxusoxuso" AND schema "unique":*
+*Shortcode [nft_content] for access by having an NFT of the asset-id "1099545088338" OR "1099539110613":*
 
 <pre>
-[nft_content type="collection" collection="xusoxusoxuso" schema="unique" ] ...your protected content [/nft_content]
+[nft_content type="asset" collection="" template="" asset="1099545088338;1099539110613" ] ...your protected content [/nft_content]
+</pre>
+
+
+
+
+
+*Shortcode [nft_show_template] showing the asset from collection "xusoxusoxuso" and the template-ID "195931":*
+The parameter "color" can set to white, this results in a white shadowed border.
+
+<pre>
+[nft_show_template collection="xusoxusoxuso" id="195931" color="white"]
 </pre>
 
