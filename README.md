@@ -96,5 +96,8 @@ The user will see his available claimdrops after login
 [claimdropbox]
 </pre>
 
+Example-view:
+<img width="712" alt="image" src="https://user-images.githubusercontent.com/26022558/130063363-47cc1172-c647-44c6-bd19-c33658f248d9.png">
+
 
 
