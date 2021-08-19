@@ -1,7 +1,7 @@
 # mantisnft-release
 Wordpress-Plugin for protected content by NFTKey of WAX (EOSIO)
 
-Please download the *mantisnft.zip* (latest version) and move the mantisnft-directory to your wordpress-plugin-directory!
+**Please download the *mantisnft.zip* (latest version) and move the mantisnft-directory to your wordpress-plugin-directory!**
 
 Publish your premium-content on Wordpress and make it accessible only for the owners of your NFT's (atomichub.io / WAX-Blockchain).
 
