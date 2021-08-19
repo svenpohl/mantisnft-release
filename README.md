@@ -87,7 +87,7 @@ The parameter "color" can set to white, this results in a white shadowed border.
 
 
 
-*Shortcode [claimdropbox] for showing the deposited claimdrops for the user.
+*Shortcode [claimdropbox] for showing the deposited claimdrops for the user.*
 The user will see his available claimdrops after login
 
 <pre>
