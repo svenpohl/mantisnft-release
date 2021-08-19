@@ -1,6 +1,8 @@
 # mantisnft-release
 Wordpress-Plugin for protected content by NFTKey of WAX (EOSIO)
 
+Please download the *mantisnft.zip* (latest version) and move the mantisnft-directory to your wordpress-plugin-directory!
+
 Publish your premium-content on Wordpress and make it accessible only for the owners of your NFT's (atomichub.io / WAX-Blockchain).
 
 ![screen1](https://user-images.githubusercontent.com/26022558/123674735-3a26e200-d842-11eb-9ad6-72268f629e62.png)
@@ -81,4 +83,18 @@ The parameter "color" can set to white, this results in a white shadowed border.
 <pre>
 [nft_show_template collection="xusoxusoxuso" id="195931" color="white"]
 </pre>
+
+
+
+
+*Shortcode [claimdropbox] for showing the deposited claimdrops for the user.
+The user will see his available claimdrops after login
+
+<pre>
+[eosio_login]  
+
+[claimdropbox]
+</pre>
+
+
 
